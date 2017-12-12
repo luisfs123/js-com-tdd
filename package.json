@@ -1,0 +1,24 @@
+{
+  "name": "js-com-tdd",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso JS TDD na pratica.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisfs123/js-com-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Luis Coelho <luisfs123@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luisfs123/js-com-tdd/issues"
+  },
+  "homepage": "https://github.com/luisfs123/js-com-tdd#readme"
+}

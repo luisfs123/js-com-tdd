@@ -1,7 +1,7 @@
 const a = 5;
 
-function quadrado() {
-  return a * a;
+function sun() {
+  return a + a;
 }
 
-quadrado(a);
+sun(a);
